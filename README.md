@@ -1,3 +1,8 @@
+Proyecto creado con ejemplos de: https://www.frontendmentor.io/
+
+demo: https://e-commerce-iota-vert-88.vercel.app/
+
+
 # Frontend Mentor - E-commerce product page
 
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
